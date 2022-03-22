@@ -1,2 +1,2 @@
 # Zerium-Black
-Object oriented programming language that is a branched version of C++ and Python.
+Zerium Black is an object oriented programming language that is a branched version of C++ and Python.
